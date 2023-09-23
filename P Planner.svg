@@ -125,9 +125,9 @@
      transform="matrix(1,0,0,1.0000047,-105.59194,-1.7190432)"><tspan
        x="530.6875"
        y="98.332653"
-       id="tspan4296"><tspan
+       id="tspan834"><tspan
          style="font-weight:300;-inkscape-font-specification:'Roboto Light'"
-         id="tspan4294">WEEKLY PLANNER</tspan></tspan></text><text
+         id="tspan832">WEEKLY PLANNER</tspan></tspan></text><text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.6667px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';fill:#000000;stroke:#000000"
      x="14.091143"
@@ -154,7 +154,7 @@
        x="951.70575"
        y="271.82904"
        style="font-size:26.6667px"
-       id="tspan2425-56">Wensday:</tspan></text><path
+       id="tspan2425-56">Wednesday</tspan></text><path
      style="fill:#999999;stroke:#000000;stroke-width:0.716185;stroke-dasharray:none"
      d="M 0,505.35809 H 1404"
      id="path2244" /><path
@@ -191,7 +191,7 @@
      transform="matrix(1.0001993,0,0,0.99999748,-856.72099,24.912938)"><tspan
        x="886"
        y="171.67683"
-       id="tspan4298">WEEK NUMBER:</tspan></text><rect
+       id="tspan836">WEEK NUMBER:</tspan></text><rect
      style="fill:none;stroke:#808080;stroke-width:4.52339;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
      id="rect9052"
      width="30.476616"
